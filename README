@@ -20,7 +20,7 @@ For retrieving the source checkout http://cpunk.de/svn/src/
 HOWTO USE
 ---------
 1. Unzip gpg4usb.zip on your usb-stick.
-2. start programm with start_windows.exe or start_linux (depending on your os)
+2. start program with start_windows.exe or start_linux (depending on your os)
 3. import your private key and some public keys
 4. enjoy portable encryption ;-)
 
